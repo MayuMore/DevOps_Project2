@@ -6,4 +6,8 @@
 
 ## Tech Stack
 - GitHub
-- Amazon EC2
+- Amazon EC2 (3)
+- Jenkins 
+- Ansible
+- WebApp Server
+- Docker Hub
